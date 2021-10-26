@@ -1,0 +1,100 @@
+τι	ti	what
+το	to	the (neuter, singular, nominative and accusative) / it (personal pronoun, neuter, singular, accusative)
+ο	o	the (masculine, singular)
+η	ee	the (feminine, singular)
+τον	ton	the (masculine, singular, nominative)/ him (personal pronoun, masculine, singular, accusative)
+την	tin	the (feminine, singular, accusative) / her  (personal pronoun, feminine, singular, accusative)
+οι	ee	 the (masculine and feminine, plural, nominative)
+τα	ta	 the (neuter, plural)
+των	ton	 of the (possessive case, masculine, feminine and neuter, plural)
+μου	mou	 my / me(personal pronoun, singular, genitive)
+σου	sou	 your / you (singular)
+του	tou	of the (possessive case, masculine and neuter  singular)/ his / him (personal pronoun masculine or neuter, genitive, singular)
+μας	mas	 our / us
+σας	sas	 your / you (plural)
+τους	tous	 their / them
+εγώ	ego	 I
+εσύ	esee	you
+εμείς	emeis	we
+μένα	mena	 me (personal pronoun, singular, accusative)
+σένα	sena	 you (personal pronoun, singular, accusative)
+ένας	enas	 a / one (masculine, singular, nominative)
+έναν	enan	 a / one (masculine, singular, accusative)
+μία	mis	 a / one (feminine, singular, nominative and accusative)
+ένα	ena	 a / one (neuter, singular, nominative and accusative)
+πολύ	polee	 very / much / a lot
+να	na	 to (particle)
+δε(ν)	de	 not
+μην	min	 do not
+και (κι)	ke (ki)	 and
+με	me	 with / me (personal pronoun, singular, accusative)
+από	apo	 from
+για	gia	 for
+μα	ma	 but
+ναι	ne	 yes
+όχι	ohi	 no
+στον	ston	 in, at, to (masculine, singular, accusative)
+στο	sto	 in, at, to (neuter, singular, accusative)
+στη	sti	 in, at, to (feminine, singular, accusative)
+στους	stous	 in, at, to (masculine, plural, accusative)
+στα	sta	 in, at, to (neuter, plural, accusative)
+στις	stis	 in, at, to (feminine, plural, accusative)
+στου	stu	 at (masculine and neuter, singular, genitive)
+αυτός ο	aftos o	 this (demonstrative pronoun, masculine, singular, nominative)
+αυτή  η	aftee ee	 this (demonstrative pronoun, feminine, singular, nominative)
+αυτό το	afto to	 this (demonstrative pronoun, neuter, singular, nominative and accusative)
+αυτοί οι	aftee ee	 these (demonstrative pronoun, masculine, plural, nominative)
+αυτές οι	aftes ee	 these (demonstrative pronoun, feminine, plural, nominative)
+αυτά τα	afta ta	 these (demonstrative pronoun, neuter, plural, nominative and accusative)
+αυτούς τους	aftous tous	t hese (demonstrative pronoun, masculine, plural, accusative)
+έλα	ela	 come
+χωρίς	horis	 without
+είναι	ine	 he, she, it is / they are
+ήταν	itan	 he, she, it was
+θα	tha	 will
+ότι	oti	 that (conjunction)
+πως	pos	 that (conjunction)
+πώς	pos	 how
+που	pou	 who / which / that (relative pronoun)
+πού	pou	 where
+πότε	pote	 when
+γιατί	yatee	 why / because
+ποτέ	pote	 never
+ξανά	xana	 again
+έχω	eho	 I have
+όλος ο	olos o	 all (masculine, singular, nominative)
+όλη η	oleeee	 all (feminine, singular, nominative)
+όλο το	olo to	 all (neuter, singular, nominative and accusative)
+όλοι οι	olee ee	 all (masculine, plural, nominative)
+όλες οι	oles ee	 all(feminine, plural, nominative
+όλα τα	ola ta	 all (neuter, plural, nominative and accusative)
+όλο τον	olo ton	 all (masculine, singular accusative)
+όλη την	olee tin	 all (feminine, singular, accusative)
+όλους τους	olous tous	 all (masculine, plural, accusative)
+όλες τις	oles tis	 all (feminine, plural, accusative)
+ποιος	poios	 who / which (interrogative pronoun, masculine, singular, nominative)
+ποια	poia	 who / which (interrogative pronoun, feminine, singular and neuter plural)
+ποιο	poio	 who / which (interrogative pronoun, neuter, singular, nominative, accusative)
+πόσο	poso	 how much (adverb or interrogative pronoun neuter, singular, nominative and accusative)
+πόσα	posa	 how much / many (interrogative pronoun, neuter, plural, nominative and accusative)
+πόση	posee	 how much (interrogative  pronoun feminine, singular, nominative and accusative)
+πόσος	posos	 how much (interrogative  pronoun masculine, singular, nominative)
+πόσοι	posee	 how much / many (interrogative  pronoun masculine, plural, nominative)
+πόσες	poses	 how much (interrogative  pronoun feminine, plural, nominative and accusative)
+πόσον	poson	 how much (interrogative  pronoun masculine, singular, accusative)
+πόσους	posous	 how much /many(interrogative  pronoun masculine, plural, accusative)
+καλά	kala	 well
+κάτι	kati	 something
+τίποτα	tipota	 nothing
+εντάξει	entaxi	 ok
+πρωί	proi	 morning
+μεσημέρι	mesimeri	 noon / afternoon (12:00-16:00)
+απόγευμα	apogevma	 afternoon
+βράδυ	vradi	 evening
+τότε	tote	 then
+πιο	pio	 more
+πια	pia	 anymore
+σήμερα	simera	 today
+χθες	hthes	 yesterday
+αύριο	avrio	  tomorrow
+ώρα	ora	 hour / time
